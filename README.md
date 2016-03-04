@@ -1,4 +1,4 @@
-# pacman
+# Tetris
 Simple Tetris game with AI for terminal(made using ncurses).
 
 (*Click the picture to watch video)<br>
